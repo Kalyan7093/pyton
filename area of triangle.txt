@@ -1,0 +1,7 @@
+base=eval(input("enter the base value:"))
+
+height=eval(input("enter the height value:"))
+
+area=0.5*height*base
+
+print(area)
